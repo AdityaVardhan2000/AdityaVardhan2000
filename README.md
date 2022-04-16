@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdityaVardhan2000 . My real name is Aditya Vardhan
 - 👀 I’m interested in sports , politics , military technologies , religion , automobiles and electronic gadgets .
-- 🌱 I’m currently learning Pyhon and Java .
-- 💞️ I’m looking to collaborate on Machine Learning and Data Science .
+- 🌱 I’m currently learning C , Python and Java .
+- 💞️ I’m looking to collaborate on Open Source Programming , Machine Learning and Data Science .
 - 📫 How to reach me ? Reach me on G-Mail - adityavardhanpry2001@gmail.com
 
 <!---
